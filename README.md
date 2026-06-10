@@ -174,7 +174,7 @@ java DiseasePrediction
 
 ### Prediction Result
 
-![Prediction Result](Prediction.png)
+![Prediction Result](prediction.png)
 ## Author
 
 Manish Mehta
