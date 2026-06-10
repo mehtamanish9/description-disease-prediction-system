@@ -160,7 +160,21 @@ java DiseasePrediction
 - Deep Learning models
 - Explainable AI (XAI)
 - Prediction history and analytics dashboard
+  
+## Application Interface
 
+### Main Screen
+
+![Main GUI](screenshots/out.png)
+![Main GUI](screenshots/output2.png.png)
+
+### Input Form
+
+![Input Form](screenshots/input.png)
+
+### Prediction Result
+
+![Prediction Result](screenshots/Prediction.png)
 ## Author
 
 Manish Mehta
