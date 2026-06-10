@@ -165,16 +165,16 @@ java DiseasePrediction
 
 ### Main Screen
 
-![Main GUI](screenshots/out.png)
-![Main GUI](screenshots/output2.png.png)
+![Main GUI](out.png)
+![Main GUI](output2.png.png)
 
 ### Input Form
 
-![Input Form](screenshots/input.png)
+![Input Form](input.png)
 
 ### Prediction Result
 
-![Prediction Result](screenshots/Prediction.png)
+![Prediction Result](Prediction.png)
 ## Author
 
 Manish Mehta
